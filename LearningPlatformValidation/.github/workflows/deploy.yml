@@ -60,4 +60,3 @@ jobs:
               -e AWS_SECRET_ACCESS_KEY=${{ secrets.AWS_SECRET_ACCESS_KEY }} \
               -e AWS_SESSION_TOKEN=${{ secrets.AWS_SESSION_TOKEN }} \
               ${{ secrets.DOCKERHUB_USERNAME }}/learning-platform:latest
-              
