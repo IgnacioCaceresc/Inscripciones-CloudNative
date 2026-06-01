@@ -122,4 +122,8 @@ public class InscripcionController {
         inscripcionService.eliminarInscripcion(id);
         return ResponseEntity.noContent().build();
     }
+    @GetMapping
+    public ResponseEntity<List<Inscripcion>> listarTodas() {
+        return ResponseEntity.ok(inscripcionService.listarTodas());
+    }
 }

@@ -59,4 +59,7 @@ public class InscripcionService {
         }
         inscripcionRepository.deleteById(id);
     }
+    public List<Inscripcion> listarTodas() {
+    return inscripcionRepository.findAll();
+    }
 }
