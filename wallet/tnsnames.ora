@@ -1,0 +1,12 @@
+learningplatformvalidationdb_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-valparaiso-1.oraclecloud.com))(connect_data=(service_name=gd60ea8135d3cb4_learningplatformvalidationdb_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+learningplatformvalidationdb_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-valparaiso-1.oraclecloud.com))(connect_data=(service_name=gd60ea8135d3cb4_learningplatformvalidationdb_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+learningplatformvalidationdb_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-valparaiso-1.oraclecloud.com))(connect_data=(service_name=gd60ea8135d3cb4_learningplatformvalidationdb_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+learningplatformvalidationdb_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-valparaiso-1.oraclecloud.com))(connect_data=(service_name=gd60ea8135d3cb4_learningplatformvalidationdb_tp.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+learningplatformvalidationdb_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-valparaiso-1.oraclecloud.com))(connect_data=(service_name=gd60ea8135d3cb4_learningplatformvalidationdb_tpurgent.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
