@@ -1,4 +1,4 @@
-package main.java.com.duoc.LearningPlatformValidation.dto;
+package com.duoc.LearningPlatformValidation.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
